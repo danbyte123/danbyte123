@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm dan</h1>
 <h3 align="center">A fullstack and lowlevel systems developer from jordan </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://https://avatars.githubusercontent.com/u/175553176?v=4username=danbyte12" alt="danbyte123" /></a> </p>
-
+ 
 - 🌱 I’m currently learning **assembly , three.js**
 
 - 📫 How to reach me **mokj2019@gmail.com**
